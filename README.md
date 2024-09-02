@@ -1,4 +1,4 @@
-Let's walk through the implementation of the real-time chat application with detailed code and instructions on how to set it up and run it.
+It is the full explation of real time chat application.
 
 ### Step 1: Set Up the Backend (Node.js + Express.js)
 
